@@ -1,0 +1,24 @@
+{
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-CDL64nNt.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-DzP1mR7p.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/images/pemandangan.jpg": {
+    "file": "assets/pemandangan-CzHCraXN.jpg",
+    "src": "resources/images/pemandangan.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-TMqgRA2V.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-Dse-N-00.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
